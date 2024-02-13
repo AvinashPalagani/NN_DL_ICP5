@@ -1,4 +1,5 @@
 Video link :https://drive.google.com/file/d/120qUGMWFuopVtL7NtxhhzStIDWHZYOzh/view?usp=sharing
+
 Which algorithm you got better accuracy? Can you justify why?
 
 Linear SVM has a better accuracy score than Gaussian Naive Bayes with 62.21% compared to 53.49%. With same test size and random state, thus SVM Algorithm performs well in this case. The reason for this could be because Linear SVM is better suited for complex and non-linearly separable datasets, and SVM also allows for more flexibility in terms of choosing different kernel functions to tackle different types of data distributions. Gaussian Naive Bayes, assumes independence between the features and is not as robust as SVM for complex datasets.
